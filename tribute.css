@@ -1,0 +1,22 @@
+body {
+    justify-content:center;
+    display:flex;
+  }
+  h1{
+      font-size: 16px;
+      text-align:center;
+    }
+  
+     h2 {
+      font-family: Lobster, Monospace;
+      text-align:right;
+    }
+  
+    p {
+      font-size: 16px;
+      font-family: Times New Roman, Times, serif;
+    }
+   
+  .bigger-image {
+    width: 2000px; 
+    }
